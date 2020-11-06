@@ -70,10 +70,6 @@ body {
     font-style: italic;
     margin: 70px 0;
   }
-  .item span {
-    font-style: normal;
-  }
-
   .navbar {
     margin-bottom: 0;
     background-color: #8B4CD0;
